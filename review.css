@@ -1,0 +1,37 @@
+﻿p {
+    font-style: italic;
+    font-size: 30px;
+}
+
+#person-img {
+    width: 80px;
+    height: 80px;
+}
+
+#author {
+    color: coral;
+}
+
+#position {
+    color: crimson;
+}
+
+#review {
+    color: currentColor;
+}
+
+#forward {
+    background-color: steelblue;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    border: dashed;
+}
+
+#backward {
+    background-color: springgreen;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    border: dotted;
+}
